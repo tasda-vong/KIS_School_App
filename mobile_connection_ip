@@ -1,5 +1,6 @@
 [
   {
-    "ip_address": "http://192.168.1.88:8899"
+    "ip_address": "http://192.168.1.88:8899",
+    "ip_address_backup": "http://192.168.1.88:8899"
   }
 ]
