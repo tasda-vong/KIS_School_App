@@ -1,6 +1,6 @@
 [
   {
-    "ip_address": "http://167.179.45.203:8899",
+    "ip_address": "http://16.179.45.203:8899",
     "ip_address_backup1": "http://192.168.1.88:8899",
     "ip_address_backup2": "http://167.179.45.203:8899"
   }
